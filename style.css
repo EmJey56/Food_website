@@ -1,0 +1,33 @@
+body {
+    background-image: url('images/newfd.jpg');
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+  
+#form_header {
+    text-align: center;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 0 rgb(0, 0, 0), 2px 2px 0 red, -1px 1px 0 red, 5px 5px 0 red;
+
+
+}
+#form_content_container {
+    
+    text-align: center;
+    font-size: 50px;
+    display:inline-block;
+    position: relative;
+    background-color: rgb(251, 105, 105);
+    border-radius: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+
+    
+}

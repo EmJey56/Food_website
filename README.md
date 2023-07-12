@@ -1,2 +1,3 @@
-# Food_website
-My First project
+# html
+
+This is my first javascript project;
